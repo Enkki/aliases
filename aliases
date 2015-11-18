@@ -1,0 +1,12 @@
+#Aliases file
+
+alias c='clear'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias grep='grep --color=auto'
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias yumi='sudo yum install'
+alias la='ls -al'
+alias gyumi='sudo yum groupinstall'
